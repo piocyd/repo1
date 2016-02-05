@@ -1,2 +1,5 @@
 Bartek tu byl
 To jest zmiana na sample branch , konflikt z masterem
+To jest zmiana na master
+To jest zmina od piocyd
+To jest zmiana od piocyd1
